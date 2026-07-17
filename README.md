@@ -2,7 +2,7 @@
 
 An unofficial, fan-made animated Lionel Messi pet for the Codex desktop app and compatible Codex terminals.
 
-![Lionel Messi waving](preview/waving.gif)
+![Lionel Messi waving](preview/waving.webp)
 
 ## Install
 
@@ -62,7 +62,7 @@ The single `spritesheet.webp` file contains all pet artwork and animations requi
 
 | Waving | Running | Jumping |
 | --- | --- | --- |
-| ![Waving](preview/waving.gif) | ![Running](preview/running-right.gif) | ![Jumping](preview/jumping.gif) |
+| ![Waving](preview/waving.webp) | ![Running](preview/running-right.webp) | ![Jumping](preview/jumping.webp) |
 
 ## Verification
 
